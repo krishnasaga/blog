@@ -13,8 +13,11 @@ The nature of human personality is complex and multifaceted, with various traits
 ## Fox
 Foxes are often known for their cunning nature, as they are able to adapt and thrive in various environments. They are known for their intelligence and resourcefulness, often using their wit to outsmart their prey or predators. Foxes are also known for their ability to think on their feet and come up with creative solutions to problems, which is why the term "cunning" is often associated with them. This trait allows them to survive in challenging environments and make the most of their resources.
 
+
+<figure>
 <img width="668" alt="Fox" src="https://user-images.githubusercontent.com/13312112/235308396-e9e8eddb-3eaf-4540-a7e9-158d189d0253.png"> 
-Photo By Ray Hennessy 
+    <figcaption>Photo By Ray Hennessy </figcaption>
+</figure>
 
 
 The fox's survival strategies are a testament to the power of adaptability and resourcefulness in the face of adversity. Among the tactics utilized by the fox are
