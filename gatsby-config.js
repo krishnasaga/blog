@@ -14,7 +14,7 @@ module.exports = {
       name: `Sagar`,
       summary: `A human born in a costal town in south part of India`,
     },
-    description: `|`,
+    description: `Thoughtful and deliberate approach our actions and decisions`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `solo474`,
