@@ -8,3 +8,5 @@ As the world becomes increasingly unpredictable, economic uncertainty has become
 
 ## Is cunning a bad trait?
 The nature of human personality is complex and multifaceted, with various traits exhibiting both positive and negative aspects. One such trait is cunning, which can be viewed through a lens of duality. While it may manifest as a dark personality trait, it is important to acknowledge that any trait, in essence, is neutral. It is the application of these traits that determines their impact and ethical value. Whether cunning is perceived as positive or negative depends on how it is utilized, whether for the greater good or self-serving interests. Thus, it is imperative that we exercise prudence and ethical discernment in our use of such traits, so as to ensure that our actions contribute towards the betterment of society as a whole.
+
+<img width="668" alt="Screenshot 2023-04-29 at 15 33 59" src="https://user-images.githubusercontent.com/13312112/235308396-e9e8eddb-3eaf-4540-a7e9-158d189d0253.png">
