@@ -32,4 +32,4 @@ Foxes are known for their strategic thinking and problem-solving abilities. They
 Foxes are calm and collected creatures, even in the face of danger. They are able to maintain composure and think clearly under pressure, which can help them make better decisions in critical situations.
 
 #### Being resourceful
-Foxes are resourceful creatures, often making use of what is available to them in their environment.
+Foxes are known for their adaptability and resourcefulness in using what is available in their environment. They are skilled hunters and can feed on a variety of prey, including small mammals, birds, insects, and even fruits and berries. They are also known for their ability to scavenge food, and will often make use of carrion or other food sources that are readily available. This resourcefulness and adaptability make them a successful and resilient species. 
