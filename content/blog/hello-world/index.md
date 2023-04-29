@@ -15,7 +15,7 @@ Foxes are often known for their cunning nature, as they are able to adapt and th
 
 
 <figure align="center" >
-<img align="center"  width="668" alt="Fox" src="https://user-images.githubusercontent.com/13312112/235308396-e9e8eddb-3eaf-4540-a7e9-158d189d0253.png"> 
+<img align="center" alt="Fox" src="https://user-images.githubusercontent.com/13312112/235308396-e9e8eddb-3eaf-4540-a7e9-158d189d0253.png"> 
     <figcaption>Photo By Ray Hennessy </figcaption>
 </figure>
 
