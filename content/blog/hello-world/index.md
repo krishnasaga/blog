@@ -32,7 +32,7 @@ In addition to their physical abilities, foxes also demonstrate strategic thinki
 
 In times of economic uncertainty, humans can learn from the fox's strategic thinking and problem-solving abilities. By analyzing our environment and identifying the best course of action, we can make more informed decisions and navigate challenges more effectively. We can also work collaboratively with others to achieve common goals, and be resourceful in our use of available resources. By adopting a fox-like approach to problem-solving, we can increase our chances of success and thrive in the face of uncertainty.
 
-#### Thinkign in terms of probabilities
+#### Thinking in terms of probabilities
 Thinking in terms of probabilities rather than absolutes is a powerful tool for making better decisions in uncertain situations. By acknowledging that there is rarely a single right answer or outcome, we open ourselves up to a wider range of possibilities and can better evaluate the risks and benefits of different options. This approach allows us to see the world in a more nuanced way, taking into account the complexities and uncertainties that surround us.
 
 By embracing probabilistic thinking, we can also become more comfortable with uncertainty and ambiguity, and avoid the pitfalls of overconfidence and dogmatism. We can recognize that our knowledge and understanding of the world is always limited and imperfect, and that there is always room for new information and different perspectives.
