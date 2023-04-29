@@ -29,7 +29,7 @@ Foxes are adaptable creatures and can thrive in various environments, from fores
 Foxes are known for their strategic thinking and problem-solving abilities. They are able to analyze their environment and identify the best course of action, whether it be for hunting or escaping predators.
 
 #### Maintaining composure
-Foxes are calm and collected creatures, even in the face of danger. They are able to maintain composure and think clearly under pressure, which can help them make better decisions in critical situations.
+Foxes are well-known for their ability to remain calm and collected in stressful situations. Even when faced with danger or uncertainty, they are able to maintain their composure and think logically about the best course of action. This is due in part to their keen instincts and ability to assess risk, as well as their natural agility and adaptability. By staying calm and collected, foxes are able to make better decisions and navigate challenges with greater ease. This trait has allowed them to survive in a wide range of environments and makes them a model of resilience for humans to learn from.
 
 #### Being resourceful
 Foxes are known for their adaptability and resourcefulness in using what is available in their environment. They are skilled hunters and can feed on a variety of prey, including small mammals, birds, insects, and even fruits and berries. They are also known for their ability to scavenge food, and will often make use of carrion or other food sources that are readily available. This resourcefulness and adaptability make them a successful and resilient species. 
