@@ -51,7 +51,9 @@ In times of economic turmoil, maintaining composure a necessity for survival. Th
 
 In the face of a crisis, leaders who maintain composure can help mitigate damage and find solutions to problems more quickly. Panicking or making rash decisions can make the situation worse.
 
-Indra Nooyi, the former CEO of PepsiCo, who maintained her composure during a public relations crisis when a video surfaced showing a Pepsi ad that was criticized for trivializing social justice movements. Nooyi acknowledged the mistake and took swift action to address the issue, which helped restore the company's reputation and prevent further damage.
+As the CEO of PepsiCo at the time, Indra Nooyi was faced with a public relations crisis. The company's reputation was on the line, and it was up to Nooyi to address the issue and mitigate the damage. Nooyi maintained her composure during the crisis, acknowledging the mistake and taking swift action to address the issue. She issued a public apology and pulled the ad from circulation. She also personally reached out to members of the Black Lives Matter movement and other advocacy groups to apologize and listen to their concerns.
+
+Nooyi's swift and thoughtful response helped to restore Pepsi's reputation and prevent further damage. Her composure during the crisis allowed her to think clearly and make decisive decisions, which ultimately benefited the company.
 
 ## Being resourceful
 Foxes are known for their adaptability and resourcefulness in using what is available in their environment. They are skilled hunters and can feed on a variety of prey, including small mammals, birds, insects, and even fruits and berries. They are also known for their ability to scavenge food, and will often make use of carrion or other food sources that are readily available. This resourcefulness and adaptability make them a successful and resilient species. 
