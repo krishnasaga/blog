@@ -47,6 +47,12 @@ Foxes are well-known for their ability to remain calm and collected in stressful
 
 In times of economic turmoil, maintaining composure a necessity for survival. Those who give in to their emotions and act impulsively are often the ones who suffer the most. By staying calm and collected, we can rise above the chaos and make rational decisions that lead to success. Moreover, a composed mindset helps to overcome the temptation of short-term gains and keeps the focus on long-term goals. This is the mark of a true strategist who understands that the key to success lies not in reacting to every crisis, but in staying centered and focused on the bigger picture. So, if we want to thrive in economic uncertainty, We need to learn to cultivate composure and stay in control of our mind, no matter how chaotic the world around us may be.
 
+### Chrisis management
+
+In the face of a crisis, leaders who maintain composure can help mitigate damage and find solutions to problems more quickly. Panicking or making rash decisions can make the situation worse.
+
+Indra Nooyi, the former CEO of PepsiCo, who maintained her composure during a public relations crisis when a video surfaced showing a Pepsi ad that was criticized for trivializing social justice movements. Nooyi acknowledged the mistake and took swift action to address the issue, which helped restore the company's reputation and prevent further damage.
+
 ## Being resourceful
 Foxes are known for their adaptability and resourcefulness in using what is available in their environment. They are skilled hunters and can feed on a variety of prey, including small mammals, birds, insects, and even fruits and berries. They are also known for their ability to scavenge food, and will often make use of carrion or other food sources that are readily available. This resourcefulness and adaptability make them a successful and resilient species. 
 
