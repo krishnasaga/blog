@@ -1,6 +1,6 @@
 ---
 title: "To Be a Cunning Fox"
-date: "2023-04-01T29:00:00Z"
+date: "2023-04-29T13:29:06+0000"
 description: "A Mindset for Thriving in Economic Uncertainty"
 ---
 
