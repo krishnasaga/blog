@@ -33,7 +33,7 @@ In times of economic uncertainty, humans can learn from the fox's strategic thin
 #### Thinking in terms of probabilities
 Life is a complex, uncertain, and constantly evolving journey, and thinking in absolutes is a surefire way to limit ourselves and miss out on the richness and diversity of experiences that it offers. When we embrace the power of probabilities, we acknowledge the dynamic nature of the world around us, and become better equipped to navigate its twists and turns with confidence and grace. This approach requires us to let go of our need for certainty and control, and instead embrace the mystery and wonder of the unknown. By doing so, we can transform uncertainty from a source of fear and anxiety into a catalyst for growth, resilience, and extraordinary achievement.
 
-In practical terms, this means being open to multiple scenarios and outcomes, and developing contingency plans for different possibilities. It means being willing to adjust our strategies and actions as new information becomes available, and being prepared to adapt to changing circumstances.
+In practical terms, this means being open to multiple scenarios and outcomes, and developing contingency plans for different possibilities. You will become more comfortable with uncertainty and ambiguity, and avoid the pitfalls of overconfidence and dogmatism. You can recognize that our knowledge and understanding of the world is always limited and imperfect, and that there is always room for new information and different perspectives. You are willing to adjust your strategies and actions as new information becomes available, and being prepared to adapt to changing circumstances.
 
 #### Illuminate the shadows of the unknown
 
