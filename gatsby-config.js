@@ -9,7 +9,7 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Clarity in Chaos`,
+    title: `Unreacted`,
     author: {
       name: `Sagar`,
       summary: `A human born in a costal town in south part of India`,
