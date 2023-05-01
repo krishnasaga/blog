@@ -48,6 +48,14 @@ The Nobel Prize in Economics in 1994 was awarded to John Nash for his contributi
 
 Nash's contributions to game theory have had a significant impact on fields beyond economics, including psychology, political science, and computer science. His work has been used to analyze a wide range of situations, from corporate competition to political negotiations, and has helped researchers better understand the nature of strategic decision-making. Nash's story was also popularized in the Academy Award-winning movie "A Beautiful Mind," which chronicled his struggles with schizophrenia and his groundbreaking contributions to mathematics and economics.
 
+Sun Tzu was a Chinese general, military strategist, and philosopher who lived during the Eastern Zhou period of ancient China. He is best known for his book "The Art of War," which remains a classic text on military strategy and tactics. In his book, Sun Tzu presents several scenarios and strategies that are still relevant today, even beyond the context of warfare.
+
+One of Sun Tzu's most famous scenarios is the idea of attacking where the enemy is weak and avoiding where the enemy is strong. This concept applies not just to military battles, but also to business and personal life. For example, in business, a company may choose to enter a market where competitors are weak, rather than directly challenging them in their strong areas. In personal life, a person may choose to focus on their strengths rather than their weaknesses.
+
+Another key scenario is the importance of preparation and planning. Sun Tzu stressed the importance of understanding the terrain, weather, and logistics of a battle before engaging the enemy. This applies to all areas of life where preparation and planning are necessary to achieve success.
+
+Sun Tzu also emphasized the importance of deception and misdirection in battle. For example, he suggested leaving a path open for the enemy to retreat in order to create a false sense of security and then launching a surprise attack from behind. This strategy can also be applied in other areas where deception and misdirection can be used to gain an advantage.
+
 #### Illuminate the shadows of the unknown
 
 Exploring the shadows of the unknowns is crucial in today's rapidly changing echonomic landscape. It involves thinking outside the box and examining possibilities that may not be immediately apparent. By exploring the hidden depths of the unknown, We can gain a competitive edge by identifying emerging trends, discovering new opportunities, and anticipating potential risks before they materialize. It requires a combination deep knowledge and critical thinking to navigate the uncharted territory of the unknown unknowns, but the rewards can be significant. With a willingness to challenge assumptions and venture into the unknown, we can position themselves for success in an uncertain future.
