@@ -42,7 +42,7 @@ Both leaders ultimately employed game theory to guide their decision-making, wit
 
 Kennedy realized that if the U.S. took military action against Cuba, the Soviets would likely retaliate against U.S. allies, potentially leading to a global nuclear war. Therefore, he opted to establish a naval blockade of Cuba rather than take direct military action. Khrushchev, on the other hand, calculate his own moves and ultimately agreed to remove the missiles in exchange for a U.S. promise not to invade Cuba and the removal of U.S. missiles in Turkey.
 
-The Cuban Missile Crisis is a prime example of how game theory can be applied to real-world situations, particularly those involving high-stakes decision-making and conflicting interests. By using game theory to evaluate the potential outcomes of different strategies, leaders can make more informed decisions and achieve more optimal outcomes.
+The Cuban Missile Crisis is a prime example of how probabilistic thinking can be applied to real-world situations, particularly those involving high-stakes decision-making and conflicting interests. By using probabilistic thinking to evaluate the potential outcomes of different strategies, leaders can make more informed decisions and increase their chances of achieving more optimal outcomes.
 
 #### Illuminate the shadows of the unknown
 
